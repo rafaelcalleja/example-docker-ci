@@ -1,2 +1,2 @@
 # example-docker-ci
-Example docker CI
+Example docker CI.
